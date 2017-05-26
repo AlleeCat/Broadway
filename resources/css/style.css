@@ -11,3 +11,30 @@
 .lower-banner{
   background-image: url("../images/background.png");
 }
+.top,
+#bottom {
+  font-size: 18px;
+  color: white;
+}
+.sub-headline{
+  font-size: 32px;
+  font-weight: bold;
+}
+.sections{
+  font-size: 23px;
+  font-weight: bold;
+}
+.standard{
+  font-size: 14px;
+}
+.lower-banner{
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+.small{
+  font-size: 11px;
+  color: white;
+  text-align: left;
+  background-color: dimgray;
+}
