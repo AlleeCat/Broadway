@@ -11,9 +11,11 @@
 .lower-banner{
   background-image: url("../images/background.png");
 }
-.top,
-#bottom {
+.top-banner p{
   font-size: 18px;
+  color: white;
+}
+a{
   color: white;
 }
 .sub-headline{
