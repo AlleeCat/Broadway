@@ -1,0 +1,13 @@
+*{
+  font-family: Helvetica;
+  text-align: center;
+}
+.main-headline {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+.top-banner,
+.lower-banner{
+  background-image: url("../images/background.png");
+}
